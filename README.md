@@ -23,11 +23,11 @@ Install vundle:
 Don't forget to dowload plugin when first install:
 
    ```vim
-   " :PluginInstall
+   :PluginInstall
    ```
 
 If you removed som plugin type:
 
    ```vim
-   " :PluginClean
+   :PluginClean
    ```
