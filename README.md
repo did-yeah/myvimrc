@@ -26,11 +26,13 @@ Install vundle:
 Don't forget to dowload plugin when first install:
 
    ```vim
+   :source $MYVIMRC
    :PluginInstall
    ```
 
 If you removed some plugin:
 
    ```vim
+   :source $MYVIMRC
    :PluginClean
    ```
