@@ -19,6 +19,9 @@ A symbolic link must be created for .vimrc in your home dir:
 
 Install vundle:
 
+   ```bash
+   git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+   ```
 
 Don't forget to dowload plugin when first install:
 
@@ -26,7 +29,7 @@ Don't forget to dowload plugin when first install:
    :PluginInstall
    ```
 
-If you removed som plugin type:
+If you removed some plugin:
 
    ```vim
    :PluginClean
